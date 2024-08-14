@@ -1,31 +1,31 @@
 # Hotel Management App
 
-## Mô tả 
-Ứng dụng desktop giúp quản lý khách sạn với các chức năng chính sau:
-* Quản lý đặt phòng
-* Quản lý danh mục các phòng
-* Quản lý sản phẩm, dịch vụ cung cấp tại khách sạn
-* Quản lý các sự cố do khách hàng hoặc nguyên nhân khác gây ra
-* Quản lý khách hàng đăng ký
-* Quản lý nhân viên khách sạn
-* Quản lý lịch sử thu chi của khách sạn
-* Thanh toán ( tính toán, xuất file hóa đơn,...)
-* Ngoài ra, còn một số tính năng cài đặt khác nhằm tối ưu trải nghiệm app hơn
+## Description
+A desktop application that helps manage hotels with the following main functions:
+* Manage reservations
+* Manage room categories
+* Manage products and services provided at the hotel
+* Manage incidents caused by customers or other causes
+* Manage registered customers
+* Manage hotel staff
+* Manage hotel revenue and expenditure history
+* Payment (calculate, export invoice files, ...)
+* In addition, there are some other installation features to optimize the app experience
 
-#### Người dùng 
+#### Users
 
-* Người quản lý khách sạn: vai trò quản lí
-* Nhân viên
-  
-### Công nghệ 
+* Hotel manager: management role
+* Staff
 
-* Hệ thống API: WPF - Mô hình MVVM
+### Technology
+
+* API system: WPF - MVVM model
 * IDE: Visual Studio 2023 (C#/.Net)
 * Database: SQL Server, Excel Sheet
-* Công cụ quản lý: Git, GitHub
-* Công cụ thiết kế: Figma
+* Management tools: Git, GitHub
+* Design tools: Figma
 
-## Tác giả 
+## Author
 
 * [Lê Quang Nhân](https://www.facebook.com/profile.php?id=100040989546712) - 21522402
 
@@ -35,5 +35,4 @@
 
 * [Phan Trọng Tính](https://www.facebook.com/profile.php?id=100073316952962) - 21522683
 
- * Sinh viên khoa Công nghệ Phần mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia thành phố Hồ Chí Minh 
-
+* Student of Software Technology Software, University of Information Technology, Vietnam National University, Ho Chi Minh City
